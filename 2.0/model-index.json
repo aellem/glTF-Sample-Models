@@ -510,6 +510,12 @@
     }
   },
   {
+    "name": "ToyCar",
+    "variants": {
+      "glTF": "ToyCar.gltf"
+    }
+  },
+  {
     "name": "TransmissionSuzanne",
     "variants": {
       "glTF": "TransmissionSuzanne.gltf"
